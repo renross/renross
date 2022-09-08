@@ -1,7 +1,6 @@
 # Ren Ross (he/him)
 #### Senior UD Computer Science B.S. student with a focus in Software Engineering.
 <br></br>
-
 [![Ren's GitHub Stats (refresh if you see this)](https://github-readme-stats.vercel.app/api/?username=renross&showicons=true&count_private=true&theme=react)]()
 [![GitHub Streak (refresh if you see this)](https://github-readme-streak-stats.herokuapp.com/?user=renross&theme=dark)](https://git.io/streak-stats)
 <br></br>
