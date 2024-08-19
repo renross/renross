@@ -1,5 +1,4 @@
 # Monroe Ren Ross (he/him)
-#### University of Delaware Graduate
 ### B.S in Computer Science - Software Engineering
 <br></br>
 [![Ren's GitHub Stats (refresh if you see this)](https://github-readme-stats.vercel.app/api/?username=renross&showicons=true&count_private=true&theme=react)]()
